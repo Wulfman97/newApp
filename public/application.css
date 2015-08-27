@@ -15,23 +15,13 @@
  */
 
 body {
-  text-align: center;
   background:url(gears.jpeg) no-repeat center center fixed ;
     -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color:white;
 }
 
-
-
-p {
-  text-align: center;
-  color:white;
+h1 {
+  color:red;
 }
-
-form {
-  color:white;
-}
-
